@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author pavan
- *
- */
-module que {
-}
