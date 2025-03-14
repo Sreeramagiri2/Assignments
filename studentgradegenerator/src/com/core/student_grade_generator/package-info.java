@@ -1,0 +1,1 @@
+package com.core.student_grade_generator;
