@@ -1,0 +1,13 @@
+.todo-container {
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    border: 1px solid #ddd;
+    margin-top: 4px;
+  }
+  
